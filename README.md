@@ -28,7 +28,7 @@ This project is a simple HTTP proxy server written in Go. It listens for incomin
 To build the project you just need to use the following command:
 
 ```sh
-go build main.go
+go build -o ./bin
 ```
 
 ### Running the Server
