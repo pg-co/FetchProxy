@@ -23,6 +23,14 @@ This project is a simple HTTP proxy server written in Go. It listens for incomin
     go mod tidy
     ```
 
+### Build the Project
+
+To build the project you just need to use the following command:
+
+```sh
+go build main.go
+```
+
 ### Running the Server
 
 To run the server, use the following command:
