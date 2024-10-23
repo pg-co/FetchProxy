@@ -12,8 +12,6 @@ import (
 	"github.com/pg-co/FetchProxy/pkg/middleware"
 )
 
-var authString string
-
 type Payload struct {
 	Url string `json:"url"`
 }
